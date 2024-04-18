@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**georgeyk/georgeyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm George, a software developer from 🇧🇷
 
-Here are some ideas to get you started:
+My main interests are web development using the Python ecosystem, Open-source and Generative Art / Creative coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check my 🌎 [personal website](https://georgeyk.dev) for more.
+
+---
+
+#### Stats
+
+[![Github](https://stats-eosin.vercel.app/api?username=georgeyk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)]()
+
+#### Langs
+
+[![Langs](https://stats-eosin.vercel.app/api/top-langs/?username=georgeyk&show_icons=true&hide_border=true&count_private=true&langs_count=10&layout=compact&theme=tokyonight)]()
